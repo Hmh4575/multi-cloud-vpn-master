@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"dns","Source":"./aws/dns","Dir":"aws/dns"},{"Key":"google_network","Source":"./google/network","Dir":"google/network"},{"Key":"vpn","Source":"./vpn","Dir":"vpn"},{"Key":"","Source":"","Dir":"."},{"Key":"aws_vpc","Source":"./aws/vpc","Dir":"aws/vpc"},{"Key":"azure_vnet","Source":"./azure/vnet","Dir":"azure/vnet"}]}
