@@ -1,12 +1,4 @@
-terraform {
-  backend "remote" {
-    organization = "Hakami"
 
-    workspaces {
-      name = "cost2"
-    }
-  }
-}
 
 module "aws_vpc" {
   source = "./aws/vpc"
